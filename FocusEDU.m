@@ -1,5 +1,6 @@
 % cd;
 clear;
+clear;
 clc;
 close all;
 dirName = '/Users/happierthree/Desktop/FocusGroup_0607/';
